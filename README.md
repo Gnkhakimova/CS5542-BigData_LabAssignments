@@ -1,3 +1,3 @@
 # CS5542-BigData_LabAssignments
 
-Lab1: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab_1
+Lab1: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-1
