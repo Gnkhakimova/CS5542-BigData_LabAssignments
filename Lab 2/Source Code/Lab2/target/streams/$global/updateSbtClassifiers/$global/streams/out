@@ -105,7 +105,6 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
-[debug] no default cache defined: set to C:\Users\Gulnoza\.ivy2\cache
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]} => dependency: org.scala-lang#jline;2.10.6 {optional=[compile(*), master(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
@@ -210,6 +209,7 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.10.6 {default=[default(compile)]} => dependency: org.scala-lang#scala-reflect;2.10.6 {default=[default(compile)]}
 [info] Resolving org.scala-sbt#interface;0.13.13 ...
 [debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#interface;0.13.13 {compile=[default(compile)]}
+[debug] no default cache defined: set to C:\Users\Gulnoza\.ivy2\cache
 [debug] sbt-chain: module revision found in cache: org.scala-sbt#interface;0.13.13
 [debug] 	found org.scala-sbt#interface;0.13.13 in sbt-chain
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]} => dependency: org.scala-lang#scala-library;2.10.6 {compile=[default(compile)]}
@@ -1969,9 +1969,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.13!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
-[debug] :: resolution report :: resolve 927ms :: artifacts dl 67ms
-[debug] 	report for lab2#lab2$sbt_2.10;1.0 default produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\target\resolution-cache\reports\lab2-lab2$sbt_2.10-default.xml
-[debug] 	resolve done (927ms resolve - 67ms download)
+[debug] :: resolution report :: resolve 3477ms :: artifacts dl 63ms
+[debug] 	report for lab2#lab2$sbt_2.10;1.0 default produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\target\resolution-cache\reports\lab2-lab2$sbt_2.10-default.xml
+[debug] 	resolve done (3477ms resolve - 63ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: lab2#lab2$sources_2.10;1.0
 [debug] 	confs: [default]
@@ -2698,6 +2698,6 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.10.6!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#interface;0.13.13!interface.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#logging;0.13.13!logging.jar(src)
-[debug] :: resolution report :: resolve 458ms :: artifacts dl 63ms
-[debug] 	report for lab2#lab2$sources_2.10;1.0 default produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\target\resolution-cache\reports\lab2-lab2$sources_2.10-default.xml
-[debug] 	resolve done (458ms resolve - 63ms download)
+[debug] :: resolution report :: resolve 289ms :: artifacts dl 31ms
+[debug] 	report for lab2#lab2$sources_2.10;1.0 default produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\target\resolution-cache\reports\lab2-lab2$sources_2.10-default.xml
+[debug] 	resolve done (289ms resolve - 31ms download)

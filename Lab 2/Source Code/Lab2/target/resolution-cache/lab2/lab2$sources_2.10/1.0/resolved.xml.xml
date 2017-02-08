@@ -4,7 +4,7 @@
 		module="lab2$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20170205160830"
+		publication="20170207224835"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

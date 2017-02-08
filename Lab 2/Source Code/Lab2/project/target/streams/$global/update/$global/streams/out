@@ -1,4 +1,4 @@
-[info] Updating {file:/C:/Users/Gulnoza/Documents/UMKC2016/CS5542/CS5542-BigData_LabAssignments/Lab2/Source%20Code/Lab2/project/}lab2-build...
+[info] Updating {file:/C:/Users/Gulnoza/Documents/UMKC2016/CS5542/CS5542-BigData_LabAssignments/Lab%202/Source%20Code/Lab2/project/}lab2-build...
 [debug] :: resolving dependencies :: default#lab2-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6624,19 +6624,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 3148ms :: artifacts dl 361ms
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT compile produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-compile.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT runtime produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-runtime.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT test produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-test.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT provided produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-provided.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT optional produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-optional.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-compile-internal.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-runtime-internal.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT test-internal produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-test-internal.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT plugin produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-plugin.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT sources produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-sources.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT docs produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-docs.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT pom produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-pom.xml
-[debug] 	report for default#lab2-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-scala-tool.xml
-[debug] 	resolve done (3148ms resolve - 361ms download)
+[debug] :: resolution report :: resolve 4267ms :: artifacts dl 110ms
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT compile produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-compile.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT runtime produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-runtime.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT test produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-test.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT provided produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-provided.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT optional produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-optional.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-compile-internal.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-runtime-internal.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT test-internal produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-test-internal.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT plugin produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-plugin.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT sources produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-sources.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT docs produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-docs.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT pom produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-pom.xml
+[debug] 	report for default#lab2-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Gulnoza\Documents\UMKC2016\CS5542\CS5542-BigData_LabAssignments\Lab 2\Source Code\Lab2\project\target\resolution-cache\reports\default-lab2-build-scala-tool.xml
+[debug] 	resolve done (4267ms resolve - 110ms download)
 [info] Done updating.
