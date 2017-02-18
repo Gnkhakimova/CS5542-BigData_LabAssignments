@@ -6,8 +6,8 @@ import java.io.{File, FileFilter}
 object Utils {
 
   /**
-    * Created by Gulnoza on 02/14/15.
-    */
+   * Prints the files in the directory Train
+   */
   def printFiles(INPUT_DIR: String): Unit = {
     val dir = new File(INPUT_DIR)
     println(dir.listFiles().size)

@@ -4,7 +4,7 @@
 		module="image_classification-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170216223203"
+		publication="20170209174849"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

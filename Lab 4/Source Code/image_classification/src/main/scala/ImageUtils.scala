@@ -8,7 +8,7 @@ import scala.collection.mutable
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * Created by Gulnoza on 02/14/15.
+  * Created by pradyumnad on 17/07/15.
   */
 object ImageUtils {
 

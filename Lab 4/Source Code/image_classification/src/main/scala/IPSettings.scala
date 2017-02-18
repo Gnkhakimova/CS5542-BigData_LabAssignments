@@ -1,5 +1,5 @@
 /**
-  * Created by Gulnoza on 02/14/15.
+  * Created by pradyumnad on 19/07/15.
   */
 object IPSettings {
 
@@ -11,5 +11,5 @@ object IPSettings {
   val KMEANS_PATH = PATH + "model/clusters"
   val KMEANS_CENTERS_PATH = PATH + "model/clusterCenters"
   val HISTOGRAM_PATH = PATH + "model/histograms"
-  val DECISION_TREE_PATH = PATH + "model/nbmodel"
+  val RANDOM_FOREST_PATH = PATH + "model/nbmodel"
 }

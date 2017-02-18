@@ -4,7 +4,7 @@ import org.bytedeco.javacpp.opencv_core.{Size, Mat}
 import org.bytedeco.javacpp.opencv_highgui._
 
 /**
-  * Created by Gulnoza on 02/14/15.
+  * Created by Mayanka on 16-Mar-16.
   */
 object ResizingImage {
 
