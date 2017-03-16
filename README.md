@@ -1,7 +1,9 @@
-# CS5542-BigData_LabAssignments
-Lab1: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-1
-Lab2: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-2
-Lab3: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-3
-Lab4: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-4
-Lab5: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-5
-Lab6: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-6
+# CS5542-BigData_LabAssignments  
+Lab1: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-1  
+Lab2: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-2    
+Lab3: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-3  
+Lab4: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-4  
+Lab5: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-5  
+Lab6: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-6  
+Lab7: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-7   
+Lab8: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-8
