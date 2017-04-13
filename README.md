@@ -8,4 +8,5 @@ Lab6: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-6
 Lab7: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-7   
 Lab8: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-8  
 Lab9: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-9  
-Lab10: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-10
+Lab10: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-10  
+Lab11: https://github.com/Gnkhakimova/CS5542-BigData_LabAssignments/wiki/Lab-11
